@@ -1,0 +1,4 @@
+Nama saya: Prahmudio
+1. sekarang create directori
+2. commit pertama
+3. push pertama
